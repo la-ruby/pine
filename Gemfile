@@ -75,3 +75,4 @@ gem "devise", "~> 4.9.alpha", :git => "https://github.com/heartcombo/devise", :b
 gem "pundit", "~> 2.3"
 
 gem "sidekiq", "~> 7.0"
+gem "aws-sdk-s3", require: false
