@@ -78,3 +78,5 @@ gem "sidekiq", "~> 7.0"
 gem "aws-sdk-s3", require: false
 
 gem "nice_partials", "~> 0.9.1"
+
+gem "kaminari", "~> 1.2"
