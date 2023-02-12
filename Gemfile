@@ -80,3 +80,7 @@ gem "aws-sdk-s3", require: false
 gem "nice_partials", "~> 0.9.1"
 
 gem "kaminari", "~> 1.2"
+
+gem "factory_bot_rails", "~> 6.2", :groups => [:test, :development]
+
+gem "faker", "~> 3.1"
